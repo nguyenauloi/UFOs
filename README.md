@@ -7,17 +7,17 @@ Dana, a data journalist, is given the opportunity to write about one of her favo
 
 To accomplish this, Dana will have to use the UFO sightings stored in the JavaScript array and present it as a table on her website. Dana will customize her website with bootstrap and include filters for each of the data types. These filters must be presented in a way that the user can easily identify how to interact with it. 
 
-[placeholder for alien art]
+<img src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220517-ufo-mjf-0953-5ad8c4.jpg" width="250">
 
 ## Webpage Preview
-[placeholder for website image]
+![](https://github.com/nguyenauloi/UFOs/blob/main/Static/images/website-pv.PNG "website-pv.PNG")
 
 The website includes filters for date, city, state, country, and shape of the UFO. Users can enter their desired search term in the appropriate box on the left
-[placeholder for one]
-[placeholder for one]
+![](https://github.com/nguyenauloi/UFOs/blob/main/Static/images/website-search-by-1.PNG "website-search-by-1.PNG")
+![](https://github.com/nguyenauloi/UFOs/blob/main/Static/images/website-search-by-1.1.PNG "website-search-by-1.1.PNG")
 They can also use more than one search term to filter.
-[placeholder for two]
-[placeholder for six]
+![](https://github.com/nguyenauloi/UFOs/blob/main/Static/images/website-search-by-2-or-more.PNG "website-search-by-2-or-more.PNG")
+![](https://github.com/nguyenauloi/UFOs/blob/main/Static/images/website-search-by-6.PNG "website-search-by-6.PNG")
 
 ## Summary
 
